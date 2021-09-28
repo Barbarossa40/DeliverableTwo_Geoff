@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DeliverableTwo_Geoff\bin\Debug\netcoreapp3.1\DeliverableTwo_Geoff.exe
+C:\Users\User\source\repos\DeliverableTwo_Geoff\bin\Debug\netcoreapp3.1\DeliverableTwo_Geoff.deps.json
+C:\Users\User\source\repos\DeliverableTwo_Geoff\bin\Debug\netcoreapp3.1\DeliverableTwo_Geoff.runtimeconfig.json
+C:\Users\User\source\repos\DeliverableTwo_Geoff\bin\Debug\netcoreapp3.1\DeliverableTwo_Geoff.runtimeconfig.dev.json
+C:\Users\User\source\repos\DeliverableTwo_Geoff\bin\Debug\netcoreapp3.1\DeliverableTwo_Geoff.dll
+C:\Users\User\source\repos\DeliverableTwo_Geoff\bin\Debug\netcoreapp3.1\DeliverableTwo_Geoff.pdb
+C:\Users\User\source\repos\DeliverableTwo_Geoff\obj\Debug\netcoreapp3.1\DeliverableTwo_Geoff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DeliverableTwo_Geoff\obj\Debug\netcoreapp3.1\DeliverableTwo_Geoff.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DeliverableTwo_Geoff\obj\Debug\netcoreapp3.1\DeliverableTwo_Geoff.AssemblyInfo.cs
+C:\Users\User\source\repos\DeliverableTwo_Geoff\obj\Debug\netcoreapp3.1\DeliverableTwo_Geoff.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DeliverableTwo_Geoff\obj\Debug\netcoreapp3.1\DeliverableTwo_Geoff.dll
+C:\Users\User\source\repos\DeliverableTwo_Geoff\obj\Debug\netcoreapp3.1\DeliverableTwo_Geoff.pdb
+C:\Users\User\source\repos\DeliverableTwo_Geoff\obj\Debug\netcoreapp3.1\DeliverableTwo_Geoff.genruntimeconfig.cache
+C:\Users\User\source\repos\DeliverableTwo_Geoff\obj\Debug\netcoreapp3.1\DeliverableTwo_Geoff.csproj.AssemblyReference.cache
