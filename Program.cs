@@ -80,6 +80,8 @@ namespace DeliverableTwo_Geoff
                             break;
 
                     }
+
+                    Console.WriteLine("This is a test. This only a test. Bob's your uncle!");
                 }
 
             }
